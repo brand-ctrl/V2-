@@ -1,0 +1,11 @@
+streamlit
+Pillow
+requests
+pandas
+rembg
+onnxruntime
+boto3
+google-api-python-client
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
